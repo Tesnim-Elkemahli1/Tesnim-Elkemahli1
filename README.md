@@ -203,7 +203,7 @@ Fun Fact:
 
 # 💜 Fun Facts
 
-- ☕ Coffee + Music = Productive Coding
+- ☕ Coffee  = Productive Coding
 - 💡 Every bug is a chance to learn something new.
 - 🌍 Dreaming of building software used around the world.
 - 🚀 Always exploring new technologies.
