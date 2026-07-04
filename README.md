@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1200&color=C77DFF&center=true&vCenter=true&width=900&lines=Hi+there!+👋;I'm+Tasnim+El+Kemahli;Computer+Engineering+Graduate;Software+Developer;Future+Full+Stack+Engineer;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1200&color=C77DFF&center=true&vCenter=true&width=900&lines=Hi+there!+👋;I'm+Tesnim-Elkemahli1;Computer+Engineering+Graduate;Software+Developer;Future+Full+Stack+Engineer;Always+Learning+Something+New+🚀"/>
 
 <br><br>
 
@@ -12,17 +12,17 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Tesnim-Elkemahli1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Tesnim-Elkemahli1&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/Tesnim-Elkemahli1?style=for-the-badge&logo=github&color=blueviolet"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&logo=github&color=blueviolet"/>
+<img src="https://img.shields.io/github/stars/Tesnim-Elkemahli1?affiliations=OWNER&style=for-the-badge&logo=github&color=blueviolet"/>
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-Name: Tasnim El Kemahli
+Name: Tesnim ElKemahli
 
 Role: Software Developer
 
@@ -78,7 +78,7 @@ Fun Fact:
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tesnim-Elkemahli1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -96,7 +96,7 @@ Fun Fact:
 
 <div align="center">
 
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&radius=16"/>
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tesnim-Elkemahli1&theme=tokyo-night&hide_border=true&radius=16"/>
 
 </div>
 
@@ -106,7 +106,7 @@ Fun Fact:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tesnim-Elkemahli1&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
 
 </div>
 
@@ -177,7 +177,7 @@ Fun Fact:
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Tesnim-Elkemahli1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
