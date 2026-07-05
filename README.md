@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1200&color=C77DFF&center=true&vCenter=true&width=900&lines=Hi+there!+👋;I'm+Tesnim-Elkemahli1;Computer+Engineering+Graduate;Software+Developer;Future+Full+Stack+Engineer;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1200&color=C77DFF&center=true&vCenter=true&width=900&lines=Hi+there!+👋;I'm+Tesnim+ElKemahli;Computer+Engineering+Graduate;Software+Developer;Future+Full+Stack+Engineer;Always+Learning+Something+New+🚀"/>
 
 <br><br>
 
@@ -27,7 +27,6 @@
 </div>
 
 ---
-
 # 💜 About Me
 
 <img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
@@ -59,10 +58,10 @@ Dream:
 
 Fun Fact:
   I believe every bug teaches something new. 💜
+
 <br clear="right"/>
 
 ---
-
 # ⚡ Tech Stack
 
 <div align="center">
@@ -76,7 +75,7 @@ Fun Fact:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tesnim-Elkemahli1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tesnim-Elkemahli1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
@@ -86,12 +85,11 @@ Fun Fact:
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tesnim-Elkemahli1&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
 ---
-
 # 📈 Contribution Graph
 
 <div align="center">
@@ -101,7 +99,6 @@ Fun Fact:
 </div>
 
 ---
-
 # 🏆 GitHub Achievements
 
 <div align="center">
@@ -111,7 +108,6 @@ Fun Fact:
 </div>
 
 ---
-
 # 💻 What I Do
 
 <div align="center">
@@ -123,14 +119,18 @@ Fun Fact:
 </div>
 
 ---
-
 # 🌟 Current Goals
 
 🎯 Build impressive full-stack applications
+
 📚 Learn modern backend technologies
+
 🚀 Contribute to open-source projects
+
 💼 Land my first software engineering role
+
 ✨ Keep growing every single day
+
 ---
 # 🐍 Contribution Snake
 
@@ -139,13 +139,13 @@ Fun Fact:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Tesnim-Elkemahli1/Tesnim-Elkemahli1/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/Tesnim-Elkemahli1/Tesnim-Elkemahli1/output/github-contribution-grid-snake.svg"
   />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Tesnim-Elkemahli1/Tesnim-Elkemahli1/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -153,7 +153,6 @@ Fun Fact:
 > ⚠️ ملاحظة: الأفعى لن تعمل إلا بعد إعداد GitHub Actions. سأشرح لك ذلك عندما ننتهي.
 
 ---
-
 # 💼 Featured Projects
 
 <div align="center">
@@ -182,28 +181,36 @@ Fun Fact:
 </a>
 
 </div>
+
+---
+
 # 📚 Learning Journey
 
 <div align="center">
 
 🌱 Never Stop Learning
+
 ████████████████████░░ 90%
 
 💻 Programming
+
 ███████████████████░░░ 85%
 
 🌐 Web Development
+
 ██████████████████░░░░ 80%
 
 🚀 Motivation
+
 ██████████████████████ 100%
+
 </div>
 
 ---
 
 # 💜 Fun Facts
 
-- ☕ Coffee  = Productive Coding
+- ☕ Coffee = Productive Coding
 - 💡 Every bug is a chance to learn something new.
 - 🌍 Dreaming of building software used around the world.
 - 🚀 Always exploring new technologies.
@@ -221,6 +228,7 @@ Fun Fact:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=6,11,20,24,30&section=footer"/>
 
 </div>
+
 ---
 
 # 💜 Favorite Quote
